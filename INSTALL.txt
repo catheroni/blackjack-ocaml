@@ -1,0 +1,2 @@
+make play will make and run the game.
+make test will make and run the unit tests.
